@@ -1,0 +1,2 @@
+# httpoetics
+syllabus for httpoetics
